@@ -1,0 +1,8 @@
+class Mani {
+    public static void main(String[] args) {
+        String s=sc.nextLine();
+        String s2=sc.nextLine();
+        int res=Integer.parseInt(s)+Integer.parseInt(s2);
+        System.out.println(res);
+    }
+}
